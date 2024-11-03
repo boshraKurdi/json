@@ -1,0 +1,7 @@
+{
+    "chat": [
+      { "id": "1", "user_id": 1, "f_id": 2 , "lastMessage": "hello" , "f_name": "Aya" },
+      { "id": "2", "user_id": 1, "f_id": 3 , "lastMessage": "baye" , "f_name": "Sara" },
+      { "id": "3", "user_id": 1, "f_id": 4 , "lastMessage": "yes" , "f_name": "Baraa" }
+    ]
+  }
