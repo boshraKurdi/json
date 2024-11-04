@@ -7,7 +7,7 @@
       { "id": "5", "chat_id": 2 , "is_f": 0, "f_id": 3 , "text": "are you basy!" },
       { "id": "6", "chat_id": 3 , "is_f": 1, "f_id": 4 , "text": "what are you doing" },
       { "id": "7", "chat_id": 1 , "is_f": 0, "f_id": 2 , "text": "fine" },
-      { "id": "8", "chat_id": 2 , "is_f": 0, "f_id": 3 , "text": "no" },
+      { "id": "8", "chat_id": 2 , "is_f": 1, "f_id": 3 , "text": "no" },
       { "id": "9", "chat_id": 3 , "is_f": 0, "f_id": 4 , "text": "nothing" }
     ]
   }
